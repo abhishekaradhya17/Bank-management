@@ -1,4 +1,4 @@
-[[redirects]]\
+[[redirects]]
 from = "/*"
 to = "/login.php"
 status = 200
